@@ -1,2 +1,2 @@
 # skin-sghigyri
-Best skin ever made
+The Kurumi-Tazeq skin is not optimal nor done yet, it still works as a Hidden Only Skin. 
